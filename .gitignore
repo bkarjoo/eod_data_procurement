@@ -1,1 +1,15 @@
+credentials.json
 .venv
+eod2.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.pickle
+*.gz
+
+*.csv
+*.log
+*.tmp
