@@ -52,7 +52,3 @@ Use `test_api.py` to download and save the compressed CSV:
 ```bash
 python test_api.py
 ```
-
----
-
-Want me to add or modify anything?
